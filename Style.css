@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+  background-image: url('index/Desktop\ -\ 1.png');
+  background-repeat: no-repeat;
+  background-size: cover ;
+}
+h1{
+  
+  margin-left: 341px;
+  color:  darkgray;
+  padding: 60px 16px;
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&family=Signika+Negative:wght@500&display=swap');
+  font-size: 1.2rem;
+
+}
+
+h3{
+  margin-left: 341px;
+  color:  white;
+  padding: 0px 16px;
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&family=Signika+Negative:wght@500&display=swap');
+  font-size: 5rem;
+
+}
+
+h2{
+  margin-left: 341px;
+  color:  white;
+  padding: 0px 16px;
+  @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&family=Signika+Negative:wght@500&display=swap');
+  font-size: 1.5rem;
+}
+
+.accordion5{
+
+
+  margin-left: 50px;
+  padding: 1310px 534px;
+
+}
+
+.pesquisa{
+
+  margin-left: 355px; 
+}
+.offcanvas-header{
+
+  color:dark;
+}
+
